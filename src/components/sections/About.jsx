@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import SectionTitle from "../ui/SectionTitle";
-import InfoCard from "../ui/InfoCard";
+import Infocard from "../ui/Infocard";
 import { about } from "../../data/about";
 
 function About() {
@@ -31,7 +31,7 @@ function About() {
 
         <div className="grid gap-8 md:grid-cols-2">
           {about.map((item) => (
-            <InfoCard
+            <Infocard
               key={item.id}
               icon={item.icon}
               title={item.title}

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-function InfoCard({ icon, title, description }) {
+function Infocard({ icon, title, description }) {
   const Icon = icon;
 
   return (
@@ -25,4 +25,4 @@ function InfoCard({ icon, title, description }) {
   );
 }
 
-export default InfoCard;
+export default Infocard;
