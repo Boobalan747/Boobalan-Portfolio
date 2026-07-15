@@ -19,16 +19,16 @@ export const projects = [
 
   {
     id: 2,
-    title: "Weather App",
+    title: "Student Management System",
     description:
-      "Weather application using an API to display current weather information.",
+      "A simple student management system built with Java and Spring Boot.",
 
-    image: "/images/weather.jpg",
+    image: "/images/student.jpg",
 
     technologies: [
-      "React",
-      "API",
-      "CSS",
+      "Java",
+      "Spring Boot",
+      "MySQL",
     ],
 
     github: "#",

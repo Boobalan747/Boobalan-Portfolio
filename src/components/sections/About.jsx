@@ -22,9 +22,8 @@ function About() {
           viewport={{ once: true }}
           className="mx-auto mb-16 max-w-3xl text-center text-lg leading-8 text-slate-400"
         >
-          I'm passionate about creating modern web applications,
-          learning new technologies, and improving my development
-          skills every day.
+          "I'm a Computer Science graduate from Arunai Engineering College with a strong interest in React and modern web development. 
+          I enjoy building responsive, user-friendly applications and continuously improving my skills through personal projects."
 
           
         </motion.p>
